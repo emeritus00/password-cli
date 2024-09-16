@@ -1,0 +1,14 @@
+{
+  "name": "password-cli",
+  "version": "1.0.0",
+  "description": "This is app that generates random passwords for users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "password-cli": "./index.js"
+  },
+  "author": "Adewale Gbadamosi",
+  "license": "MIT"
+}
